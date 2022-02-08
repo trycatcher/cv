@@ -2,7 +2,7 @@
 
 _Looking to work closely with business leaders, to own and deliver technology that amplfies business value, either as a technical co-founder or a senior leader._ <br>
 
-- I am a Full-stack Software Developer with diverse technology development experience across organizations ranging in industry and size
+- I enjoy hands-on full-stack software development with diverse experience across organizations ranging in industry and size
 - with a long tenure at leading and developing geographically distributed teams
 - good at
   - navigating complex business situations

@@ -1,8 +1,8 @@
 ## Abhik Khanra
 
-_Full-stack Software Developer with diverse experience across organizations ranging in industry and size. Provided technical guidance to CEOs, managed projects and development teams, have consulted on sales and product also. I am comfortable diving deep at the code, organization, and operational processes level._ <br>
+_Looking to work closely with business leaders, to own and deliver technology that amplfies business value, either as a technical co-founder or a senior leader._ <br>
 
-_I am good at navigating complicated business situations, identifying the most important drivers of value and driving rapid iteration towards them, and setting up processes and the culture to do that effectively. I am looking to be part of a multi-functional core team taking on an interesting challenge, working with dedicated focus to be the best at their chosen problem._ <br>
+_ I am a Full-stack Software Developer with diverse technology development experience across organizations ranging in industry and size, long tenure at leading and developing geographically distributed teams. I am good at navigating complex business situations, identifying the most important drivers of value and driving rapid iteration towards them, and setting up the organization, processes and culture to do that effectively. I have also provided technical guidance to CEOs and consulted on sales and product._ <br>
 
 [Email](mailto:abhik.rk@gmail.com) / [LinkedIn](https://www.linkedin.com/in/abhik-khanra-7738964/) / [GitHub](https://github.com/trycatcher/)
 

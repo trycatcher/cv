@@ -13,6 +13,14 @@ _Looking to work closely with business leaders, to own and deliver technology th
 
 [Email](mailto:abhik.rk@gmail.com) / [LinkedIn](https://www.linkedin.com/in/abhik-khanra-7738964/) / [GitHub](https://github.com/trycatcher/)
 
+## Where
+
+### Location
+[Kolkata](https://en.wikipedia.org/wiki/Kolkata)
+
+### Timezone
+Indian Standard Time (UTC+05:30)
+
 ## Recent work
 
 ### Independent Consultant

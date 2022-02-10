@@ -52,4 +52,4 @@ Computer Vision-driven Contact Tracing platform for facilities
 ## Others
 - I co-organize a Clojure Meetup in Kolkata, India. It's on temporary hiatus due to Covid-19.
 - I am often tempted to move to Product Management since _building the right thing_ is always going to be much harder than _building the thing right_. I completed an online Digital Product Management track from Coursera in 2020, but i can't seem to give up code.
-- I am and likely to stay confused about Web3.
+- I can sometimes see in the dark when i get lost in a hike.

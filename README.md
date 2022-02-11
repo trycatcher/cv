@@ -1,6 +1,6 @@
 ## Abhik Khanra
 
-_Looking to work closely with business leaders, to own and deliver technology that amplfies business value, either as a technical co-founder or a senior leader._ <br>
+_Looking to work closely with business leaders, to own and deliver technology that amplifies business value, either as a technical co-founder or a senior leader._ <br>
 
 - I enjoy hands-on full-stack software development with diverse experience across organizations ranging in industry and size
 - with a long tenure at leading and developing geographically distributed teams

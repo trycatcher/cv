@@ -23,6 +23,13 @@ Indian Standard Time (UTC+05:30)
 
 ## Recent work
 
+### Full-time
+**Director of Engineering** @ [Stealth Startup] _(March 2022 - till date)_ <br>
+Building data processing systems to support the core application platform.
+  - Involves cleaning, processing, enhancing data from a wide variety of sources
+  - Building workflow tooling and application to streamline the above
+  - **_Technologies used:_** Clojure, AWS DyanmoDB, AWS RDS, Elasticsearch
+
 ### Independent Consultant
 **Software Developer** @ [Omnyway](https://www.omnyway.com/) _(June 2020 - February 2022)_ <br>
 Real-time streaming commerce platform for Retailers to hold live events

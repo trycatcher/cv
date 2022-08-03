@@ -24,7 +24,7 @@ Indian Standard Time (UTC+05:30)
 ## Recent work
 
 ### Independent Consultant
-**Software Developer** @ [Omnyway](https://www.omnyway.com/) _(June 2020 - February 2021)_ <br>
+**Software Developer** @ [Omnyway](https://www.omnyway.com/) _(June 2020 - February 2022)_ <br>
 Real-time streaming commerce platform for Retailers to hold live events
   - Implemented the Retailer Dashboard and Shopper web applications
   - Helped accelerate the transition from Managed AWS to Serverless deployments, which saved costs and reduced management overhead

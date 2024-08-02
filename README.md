@@ -46,6 +46,7 @@ Building data processing systems to support the core application platform.
   - Involves cleaning, processing, enhancing data from a wide variety of sources
   - Building workflow tooling and application to streamline the above
   - **_Technologies used:_** Clojure, AWS DyanmoDB, AWS RDS, Elasticsearch
+<br><br>
 
 ### Independent Consultant
 **Software Developer** @ [Omnyway](https://www.omnyway.com/) _(June 2020 - February 2022)_ <br>

@@ -41,7 +41,7 @@ We started with an application for Patients to see their medical history unified
 <br><br>
 
 ### Full-time
-**Director of Engineering** @ [Stealth Startup] _(March 2022 - August 2022)_ <br>
+**Director of Engineering** @ [Orolabs](https://www.orolabs.ai/) _(March 2022 - August 2022)_ <br>
 Building data processing systems to support the core application platform.
   - Involves cleaning, processing, enhancing data from a wide variety of sources
   - Building workflow tooling and application to streamline the above

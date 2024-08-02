@@ -23,6 +23,23 @@ Indian Standard Time (UTC+05:30)
 
 ## Recent work
 
+### Independent Consultant
+**Head of Engineering** @ [Consolidate Health](https://consolidate.health/) _(Jan 2023 - Jan 2024)_ <br>
+An all-encompassing, comprehensive Healthcare Product platform serving the needs of multiple stakeholders.
+We started with an application for Patients to see their medical history unified from multiple Practices.
+  - Managed engineering
+    - Rebuilt the Dev and Product teams
+    - Re-envisioned the MVP
+    - Provided Technical Counsel to the CEO
+    - Developed and maintained a frugal engineering culture and lean product practices
+    - Provided guidance and mentorship to Developers
+  - Handled operations
+    - Set up a HIPAA-compliant infrastructure on AWS with identity federation
+    - Set up tools and secure practices for everyone in the orgnisation, as needed in a regulated vertical
+  - Developed and optimized multiple key features
+  - **_Technologies used:_** Clojure, Clojurescript, AWS
+<br><br>
+
 ### Full-time
 **Director of Engineering** @ [Stealth Startup] _(March 2022 - August 2022)_ <br>
 Building data processing systems to support the core application platform.

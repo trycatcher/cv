@@ -70,9 +70,9 @@ Computer Vision-driven Contact Tracing platform for facilities
 <br><br>
 
 ## Previous experience
-- **Consultant** @ [Nilenso](https://nilenso.com/) _(June 2017 - May 2020)
-- **Software Architect** @ [Capgemini](https://www.capgemini.com/) _(May 2006 - April 2017)
-- **Software Development Lead** @ [Tata Consultancy Services](https://www.tcs.com/) _(June 2002 - May 2006)
+- **Consultant** @ [Nilenso](https://nilenso.com/) _(June 2017 - May 2020)_
+- **Software Architect** @ [Capgemini](https://www.capgemini.com/) _(May 2006 - April 2017)_
+- **Software Development Lead** @ [Tata Consultancy Services](https://www.tcs.com/) _(June 2002 - May 2006)_
 
 ## Others
 - I am often tempted to move to Product Management since _building the right thing_ is always going to be much harder than _building the thing right_. I completed an online Digital Product Management track from Coursera in 2020, but i can't seem to give up code.

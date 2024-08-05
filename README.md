@@ -37,7 +37,8 @@ We started with an application for Patients to see their medical history unified
     - Set up a HIPAA-compliant infrastructure on AWS with identity federation
     - Set up tools and secure practices for everyone in the orgnisation, as needed in a regulated vertical
   - Developed and optimized multiple key features
-  - **_Technologies used:_** Clojure, Clojurescript, AWS
+
+_Technologies used:_ Clojure, Clojurescript, AWS
 <br><br>
 
 ### Full-time
@@ -45,7 +46,8 @@ We started with an application for Patients to see their medical history unified
 Building data processing systems to support the core application platform.
   - Involves cleaning, processing, enhancing data from a wide variety of sources
   - Building workflow tooling and application to streamline the above
-  - **_Technologies used:_** Clojure, AWS DyanmoDB, AWS RDS, Elasticsearch
+
+_Technologies used:_ Clojure, AWS DyanmoDB, AWS RDS, Elasticsearch
 <br><br>
 
 ### Independent Consultant
@@ -56,7 +58,8 @@ Real-time streaming commerce platform for Retailers to hold live events
   - Integrated Paypal's Connected Path as a payment option for Retailers
   - Implemented a Shopify App to enable Shopify merchants to leverage Omnyway's streaming commerce solutionplatform
   - Adapting the entire platform to use an Indian payment gateway needed to make end-to-end payments work in India
-  - **_Technologies used:_** Clojure, Clojurescript, AWS Appsync, AWS Amplify, Sass.
+
+_Technologies used:_ Clojure, Clojurescript, AWS Appsync, AWS Amplify, Sass.
 <br><br>
 
 **Consulting CTO** @ [Hipla](https://hipla.io/) _(June 2020 - September 2020)_ <br>

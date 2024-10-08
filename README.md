@@ -30,7 +30,7 @@ to offer their users wide-ranging, friction-free experiences involving access of
 I work across the Architecture, Engineering, and Product teams to support Vouch's continued progression towards
 becoming a Product organization focusing on the Identity capabilities at the core of the Vouch platform.
 
-_Technolgies uses: _ Clojure, Clojurescript, AWS, Datomic, C, Rust
+_Technolgies used:_ Clojure, Clojurescript, AWS, Datomic, C, Rust
 
 **Head of Engineering** @ [Consolidate Health](https://consolidate.health/) _(Jan 2023 - Jan 2024)_ <br>
 An all-encompassing, comprehensive Healthcare Product platform serving the needs of multiple stakeholders.

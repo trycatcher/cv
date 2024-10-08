@@ -23,7 +23,6 @@ Indian Standard Time (UTC+05:30)
 
 ## Recent work
 
-### Independent Consultant
 **Senior Architect** @ [Vouch](https://vouch.io/) _(Aug 2024 - till date)_ <br>
 Vouch is a pioneering Identity x Security platform working with some of the largest Enterprises in the world
 to offer their users wide-ranging, friction-free experiences involving access of their assets.
@@ -50,7 +49,6 @@ We started with an application for Patients to see their medical history unified
 _Technologies used:_ Clojure, Clojurescript, AWS
 <br><br>
 
-### Full-time
 **Director of Engineering** @ [Orolabs](https://www.orolabs.ai/) _(March 2022 - August 2022)_ <br>
 Building data processing systems to support the core application platform.
   - Involves cleaning, processing, enhancing data from a wide variety of sources
@@ -59,7 +57,6 @@ Building data processing systems to support the core application platform.
 _Technologies used:_ Clojure, AWS DyanmoDB, AWS RDS, Elasticsearch
 <br><br>
 
-### Independent Consultant
 **Software Developer** @ [Omnyway](https://www.omnyway.com/) _(June 2020 - February 2022)_ <br>
 Real-time streaming commerce platform for Retailers to hold live events
   - Implemented the Retailer Dashboard and Shopper web applications
@@ -71,7 +68,7 @@ Real-time streaming commerce platform for Retailers to hold live events
 _Technologies used:_ Clojure, Clojurescript, AWS Appsync, AWS Amplify, Sass.
 <br><br>
 
-**Consulting CTO** @ [Hipla](https://hipla.io/) _(June 2020 - September 2020)_ <br>
+**CTO** @ [Hipla](https://hipla.io/) _(June 2020 - September 2020)_ <br>
 Facility management platform with a focus on Visitor acess and scheduling via Indoor positioning.
 Computer Vision-driven Contact Tracing platform for facilities
   - Provided all-around technical counsel to the CEO for potential acquisitions, working with external development teams, platform vision, service-to-product transition

@@ -2,14 +2,15 @@
 
 _Looking to work closely with business leaders, to own and deliver technology that amplifies business value, either as a technical co-founder or a senior leader._ <br>
 
-- I enjoy hands-on full-stack software development with diverse experience across organizations ranging in industry and size
-- with a long tenure at leading and developing geographically distributed teams
-- good at
-  - navigating complex business situations
-  - identifying the most important drivers of value
-  - driving rapid iteration towards them
-  - setting up the organization, processes and culture to do that effectively
-- and have also provided technical guidance to CEOs and consulted on sales and product
+I enjoy hands-on full-stack software development with diverse experience across organizations ranging in industry and size
+with a long tenure at leading and developing geographically distributed teams.
+I am good at
+  - Navigating complex business situations.
+  - Identifying the most important drivers of value.
+  - Driving rapid iteration towards them.
+  - Setting up the organization, processes and culture to do that effectively.
+
+I have also provided technical guidance to CEOs and consulted on sales and product.
 
 [Email](mailto:abhik.rk@gmail.com) / [LinkedIn](https://www.linkedin.com/in/abhik-khanra-7738964/) / [GitHub](https://github.com/trycatcher/)
 
